@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/mtkozuki/justatest/main/test.yaml?FUZZ=FUZZ",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/mtkozuki/justatest/main/test.yaml?FUZZ=FUZZ",
+            "name": "FUZZ"
+        }
+    ]
+}
